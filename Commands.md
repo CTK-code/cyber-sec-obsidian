@@ -11,4 +11,7 @@ ROT13:
 		ex: chmod 766 warm
 		4 = r, 2 = w, 1 = x```
 
-[strings](https://linux.die.net/man/1/strings)
+[strings](https://linux.die.net/man/1/strings): ``` strings <filename>
+ex: strings strings.txt
+```
+	I grepped
