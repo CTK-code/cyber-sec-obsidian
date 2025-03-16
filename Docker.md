@@ -22,5 +22,4 @@ Allows to manipulate and view docker volumes. Lots of stuff.
 ```
 docker volume create <volume-name>
 docker volume create ghost-vol
-
 ```

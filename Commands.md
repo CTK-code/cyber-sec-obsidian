@@ -17,7 +17,7 @@ ex: nc jupiter.challenges.picoctf.org 64287
 
 [chmod](https://linux.die.net/man/1/chmod): 
 Updated permissions of a file
-``` 
+```bash
 chmod <permission-levels> <file>
 	ex: chmod 766 warm
 	4 = r, 2 = w, 1 = x
@@ -25,10 +25,20 @@ chmod <permission-levels> <file>
 
 [strings](https://linux.die.net/man/1/strings): 
 Prints all printable strings in a file
-``` 
+```bash
 strings <filename>
 ex: strings strings.txt
 ```
 
 [netstat](https://linux.die.net/man/8/netstat):  ```netstat```
 
+[bvi](https://linux.die.net/man/1/bvi):
+opens a visual editor for binary files. 
+(could have been useful when trying to edit the pokemon yellow memory)
+
+[rm](): 
+remove files
+```bash
+removing all files in a directory
+	rm -r /path/to/directory/*
+```
