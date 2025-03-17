@@ -8,7 +8,7 @@ ex: docker run -d -p 81:80 docker/getting-started
 
 docker run -d -e NODE_ENV=development -e url=http://localhost:3001 -p 3001:2368 -v ghost-vol:/var/lib/ghost/content ghost
 	-e: sets the NODE_ENV environment variable to development same with the url
-	ghost-vol:/var/lib/ghost/content: mounts the volume on the host machine <ghost-vol> to the listed directory in the container
+	-v: <volume-name>:<conatiner-file-system-location> mounts a volume to the container filesystem if exists or creates one if not.
 	
 ```
 ###### [exec](https://docs.docker.com/reference/cli/docker/container/exec/): 
@@ -25,6 +25,41 @@ docker exec -it bba631e9a35f  /bin/sh
 ###### [volume]():
 Allows to manipulate and view docker volumes. Lots of stuff.
 ```
+creating a volume
 docker volume create <volume-name>
 docker volume create ghost-vol
+
+removing a volume:
+docker volume rm <volume-name> 
+
+  create      Create a volume
+  inspect     Display detailed information on one or more volumes
+  ls          List volumes
+  prune       Remove unused local volumes
+  rm          Remove one or more volumes
 ```
+
+###### [ps]():
+Lists the containers that are on your machine. Can be in various states of running, or not.
+```
+docker ps
+	-a: shows all containers, not just those running
+```
+
+###### [restart]():
+Restarts the designated container.
+```
+ docker restart <container-id | container-name>
+```
+
+###### [rm](https://docs.docker.com/reference/cli/docker/container/rm/):
+removes a conatiner
+```
+	docker rm <container-id | container-name>
+
+handy command to remove all docker containers and their associated volumes. use at your own risk
+	docker rm -v -f $(docker ps -qa)
+		-v: removes assosciated volumes
+		-f: removes even running containers
+```
+
