@@ -63,3 +63,11 @@ handy command to remove all docker containers and their associated volumes. use 
 		-f: removes even running containers
 ```
 
+###### [network](https://docs.docker.com/reference/cli/docker/network/):
+Series of commands that allow us to create a network for our docker containers
+```
+creating a network:
+	docker network create <name-of-network>
+	docker network create caddytest
+ls: list networks
+```
