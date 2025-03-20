@@ -14,3 +14,9 @@
 <+47>:    pop    rbp
 <+48>:    ret
 ```
+
+[gdb](https://sourceware.org/gdb/):
+debugger that can be used to debug assembly code. We can enter the debugger with the command 
+```bash
+gdb <file-name>
+```
