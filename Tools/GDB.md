@@ -18,6 +18,9 @@ Dump of assembler code for function main:
    0x000000000000113e <+21>:	ret
 End of assembler dump.
 ```
+
+##### `(gdb) run`
+Runs the program until our breakpoint.
 ###### `(gdb) break *main+59` 
 Sets a breakpoint at the instruction at +59.
 
