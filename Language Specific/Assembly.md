@@ -1,4 +1,5 @@
-``` asm6502
+Only god knows what version of assembly I am trying to work with.
+```nasm
 <+0>:     endbr64 
 <+4>:     push   rbp
 <+5>:     mov    rbp,rsp
@@ -20,3 +21,10 @@ debugger that can be used to debug assembly code. We can enter the debugger with
 ```bash
 gdb <file-name>
 ```
+
+Registers:
+rbp: The %rbp register is called the **base pointer** (and sometimes the frame pointer). For simple functions, an optimizing compiler generally treats this like any other callee-saved general-purpose register.
+
+rsp: The %rsp register is used as the "**stack pointer**"; push and pop are used to add/remove values from the stack. The push instruction takes one operand: an immediate, a register, or a memory location.
+
+
