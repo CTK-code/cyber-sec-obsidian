@@ -1,6 +1,6 @@
 ###### [run](https://docs.docker.com/reference/cli/docker/container/run/): 
 runs the designated container image
-```
+```bash
 docker run -d -p <hostport>:<container-port> <image-name>
 	-d: run in detached (command runs in background)
 	-p: define the ports to assosciate to
@@ -13,7 +13,7 @@ docker run -d -e NODE_ENV=development -e url=http://localhost:3001 -p 3001:2368 
 ```
 ###### [exec](https://docs.docker.com/reference/cli/docker/container/exec/): 
 allows a single command to be run in the docker container at CONTAINER_ID 
-```
+```bash
 docker exec CONTAINER_ID netstat -ltnp
 
 docker exec -it bba631e9a35f  /bin/sh
@@ -24,7 +24,7 @@ docker exec -it bba631e9a35f  /bin/sh
 
 ###### [volume]():
 Allows to manipulate and view docker volumes. Lots of stuff.
-```
+```bash
 creating a volume
 docker volume create <volume-name>
 docker volume create ghost-vol
@@ -41,20 +41,20 @@ docker volume rm <volume-name>
 
 ###### [ps]():
 Lists the containers that are on your machine. Can be in various states of running, or not.
-```
+```bash
 docker ps
 	-a: shows all containers, not just those running
 ```
 
 ###### [restart]():
 Restarts the designated container.
-```
+```bash
  docker restart <container-id | container-name>
 ```
 
 ###### [rm](https://docs.docker.com/reference/cli/docker/container/rm/):
 removes a conatiner
-```
+```bash
 	docker rm <container-id | container-name>
 
 handy command to remove all docker containers and their associated volumes. use at your own risk
@@ -65,7 +65,7 @@ handy command to remove all docker containers and their associated volumes. use 
 
 ###### [network](https://docs.docker.com/reference/cli/docker/network/):
 Series of commands that allow us to create a network for our docker containers
-```
+```bash
 creating a network:
 	docker network create <name-of-network>
 	docker network create caddytest
