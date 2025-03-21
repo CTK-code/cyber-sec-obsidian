@@ -166,7 +166,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -179,12 +180,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6ff0891c28d70a6d",
+  "active": "f3dfec7ea007ada6",
   "lastOpenFiles": [
     "Log/2025-03-21.md",
+    "Tools/GDB.md",
     "Commands.md",
     "[[.md",
-    "Tools/GDB.md",
     "Log/2025-03-18.md",
     "Log/2025-03-19.md",
     "Log/2025-03-20.md",
