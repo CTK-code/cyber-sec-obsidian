@@ -29,3 +29,6 @@ Prints out the value at eax in hexadecimal and decimal
 
 ###### `(gdb) `x/4xb addr`
 This prints out the value at the designated address
+
+###### `(gdb) `info functions
+Displays all functions in the assembly file.

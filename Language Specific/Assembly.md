@@ -24,7 +24,9 @@ debugger that can be used to debug assembly code. We can enter the debugger with
 gdb <file-name>
 ```
 
-[call]()
+[call]():
+The call instruction is an unconditional jump instruction. After it jumps, it will execute the code until it is done with the call (block?) and then return to the calling line. 
+> This is like defining a function.
 
 Registers:
 rbp: The %rbp register is called the **base pointer** (and sometimes the frame pointer). For simple functions, an optimizing compiler generally treats this like any other callee-saved general-purpose register.
