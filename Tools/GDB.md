@@ -26,3 +26,6 @@ Sets a breakpoint at the instruction at +59.
 
 ###### `(gdb) info registers eax`
 Prints out the value at eax in hexadecimal and decimal
+
+###### `(gdb) `x/4xb addr`
+This prints out the value at the designated address
