@@ -1,3 +1,5 @@
+[Cheat Sheet](https://cs.brown.edu/courses/cs033/docs/guides/x64_cheatsheet.pdf)
+
 Only god knows what version of assembly I am trying to work with.
 ```nasm
 <+0>:     endbr64 
@@ -21,6 +23,8 @@ debugger that can be used to debug assembly code. We can enter the debugger with
 ```bash
 gdb <file-name>
 ```
+
+[call]()
 
 Registers:
 rbp: The %rbp register is called the **base pointer** (and sometimes the frame pointer). For simple functions, an optimizing compiler generally treats this like any other callee-saved general-purpose register.
