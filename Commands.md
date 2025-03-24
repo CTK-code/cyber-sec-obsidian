@@ -54,3 +54,7 @@ wget allows downloading of a resource at a uri.
 ```shell
 wget <file-name>
 ```
+
+field:
+TODO: Add notes about this but this is so cool.
+https://www.youtube.com/shorts/0Z71je-X6YM
