@@ -166,7 +166,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -179,7 +180,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6ff0891c28d70a6d",
+  "active": "3354817bfd2b9b4f",
   "lastOpenFiles": [
     "Commands.md",
     "Language Specific/Assembly.md",
