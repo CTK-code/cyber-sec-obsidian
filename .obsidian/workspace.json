@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "8eb512889581c5c5",
+        "id": "a9a8454ae642fb71",
         "type": "tabs",
         "children": [
           {
-            "id": "3354817bfd2b9b4f",
+            "id": "d112761c9d245cf8",
             "type": "leaf",
             "state": {
               "type": "split-diff-view",
@@ -179,8 +179,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3354817bfd2b9b4f",
+  "active": "d112761c9d245cf8",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "2025-03-26.md",
     "Log/2025-03-24.md",
     "Resources/ASCII Table.md",
     "Resources",
