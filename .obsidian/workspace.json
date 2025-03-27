@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Log/2025-03-26.md",
+                "file": "Log/2025-03-27.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-03-26"
+              "title": "2025-03-27"
             }
           },
           {
@@ -195,9 +195,10 @@
   },
   "active": "1ec89cf026db09fc",
   "lastOpenFiles": [
+    "Log/2025-03-26.md",
+    "Log/2025-03-27.md",
     "Log/2025-03-25.md",
     "Language Specific/Python.md",
-    "Log/2025-03-26.md",
     "Resources/ASCII Table.md",
     "2025-03-25.md",
     "Language Specific/C.md",
@@ -228,7 +229,6 @@
     "Log/Daily.md",
     "Log",
     "gitignore",
-    "PicoCTF.md",
     "PicoCTF"
   ]
 }
