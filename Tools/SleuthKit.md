@@ -93,3 +93,10 @@ mactime formate is what a lot of other tools look at for inputs.
 
 ##### [icat]()
 Prints the content of a file in an image (if it can be) to the stdout. This is accessed via the inode number.
+
+##### [srch_strings](https://manpages.debian.org/jessie/sleuthkit/srch_strings.1)
+Prints the contents of text files in the image.
+```
+srch_strings -o 2048 dds1-alpine.flag.img
+```
+
