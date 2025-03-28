@@ -68,3 +68,9 @@ Print information about the file
 ```shell
 file <file-name>
 ```
+
+[mmls](https://wiki.sleuthkit.org/index.php?title=Mmls)
+Part of SleuthKit
+
+[gzip/gunzip](https://linux.die.net/man/1/gunzip)
+Allows for compressing and decompressing files.
