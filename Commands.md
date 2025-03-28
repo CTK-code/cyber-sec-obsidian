@@ -48,6 +48,10 @@ unzips a file into a folder of the same name -.zip unless specified
 
 [find](https://linux.die.net/man/1/find):
 Allows you to look at each file and evaluate it using an expression. Honestly Im not clear on how this works and what it does. An example is here [Big Zip][[2025-03-16#[Big Zip](https //play.picoctf.org/playlists/18?m=166)].
+```bash
+find <path> <expression>
+find . -name thisfile.txt
+```
 
 [wget](https://www.gnu.org/software/wget/):
 wget allows downloading of a resource at a uri.
@@ -58,3 +62,9 @@ wget <file-name>
 field:
 TODO: Add notes about this but this is so cool.
 https://www.youtube.com/shorts/0Z71je-X6YM
+
+[file](https://linux.die.net/man/1/file):
+Print information about the file
+```shell
+file <file-name>
+```
