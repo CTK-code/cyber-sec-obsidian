@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2025-03-29.md",
+                "file": "Log/2025-03-29.md",
                 "mode": "preview",
                 "source": false
               },
@@ -210,8 +210,11 @@
   },
   "active": "0c4d2d776f18a3f8",
   "lastOpenFiles": [
+    "images/packets_primer_wireshark.png",
+    "Tools/Wireshark.md",
+    "Tools/Wireshark.d",
     "Tools/SleuthKit.md",
-    "2025-03-29.md",
+    "Log/2025-03-29.md",
     "Log/2025-03-28.md",
     "Log/2025-03-27.md",
     "Resources/Primer.md",
@@ -235,8 +238,6 @@
     "Log/2025-03-24.md",
     "conflict-files-obsidian-git.md",
     "Language Specific/Assembly.md",
-    "Log/2025-03-22.md",
-    "Language Specific/Java.md",
     "Tools",
     "Language Specific",
     "images/Pasted image 20250316135000.png",
