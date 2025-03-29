@@ -6,3 +6,7 @@ It is recommended to use the file command any time we are going to be looking in
 
 [SleuthKit](https://www.sleuthkit.org/sleuthkit/desc.php) is a series of tools that let us look at disk images. 
 
+There is a large section on programming in python that I do not care for since I feel like I know enough to figure it out.
+
+For binary exploitation, there is a very useful library called pwntools:
+
