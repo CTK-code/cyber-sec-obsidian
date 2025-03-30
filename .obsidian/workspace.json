@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Log/2025-03-29.md",
-                "mode": "preview",
+                "file": "2025-03-30.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-03-29"
+              "title": "2025-03-30"
             }
           },
           {
@@ -210,11 +210,12 @@
   },
   "active": "0c4d2d776f18a3f8",
   "lastOpenFiles": [
+    "Log/2025-03-29.md",
+    "2025-03-30.md",
     "images/packets_primer_wireshark.png",
     "Tools/Wireshark.md",
     "Tools/Wireshark.d",
     "Tools/SleuthKit.md",
-    "Log/2025-03-29.md",
     "Log/2025-03-28.md",
     "Log/2025-03-27.md",
     "Resources/Primer.md",
