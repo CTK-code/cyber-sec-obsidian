@@ -74,3 +74,14 @@ Part of SleuthKit
 
 [gzip/gunzip](https://linux.die.net/man/1/gunzip)
 Allows for compressing and decompressing files.
+
+[hexdump]()
+Dumps the hex code for a file. Using -C will translate to human readable format.
+```bash
+hexdump -C cat.jpg
+
+#same as
+hd cat.jpg
+```
+
+
