@@ -21,7 +21,7 @@ Helpful filters:
 Hide Protocols: !\(arp or stp or lldp or cdp) and can add any other protocols we want to ignore
 First part of 3-way handshake: tcp.flags.syn==1
 Flagged Packets: tcp.analysis.flags Shows only packets that wireshark wants us to care about
-
+!(arp or stp or lldp or cdp) and http.request.method == "POST"
 [malware-traffic-analysis.net] or net not sure, to practice looking at packets.
 
 
