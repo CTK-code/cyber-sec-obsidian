@@ -193,11 +193,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f3dfec7ea007ada6",
+  "active": "1ec89cf026db09fc",
   "lastOpenFiles": [
+    "Resources/ASCII Table.md",
+    "2025-04-02.md",
     "images/trivial_file_transfer_protocol_instructions.png",
     "2025-04-01.md",
-    "2025-04-02.md",
     "Tools/Wireshark.md",
     "Log/2025-03-28.md",
     "Log/2025-03-31.md",
