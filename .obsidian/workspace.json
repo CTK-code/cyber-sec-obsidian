@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Log/2025-04-09.md",
+                "file": "Log/2025-04-10.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-04-09"
+              "title": "2025-04-10"
             }
           },
           {
@@ -206,11 +206,12 @@
   },
   "active": "c32889446dce154c",
   "lastOpenFiles": [
+    "Log/2025-04-09.md",
+    "Log/2025-04-10.md",
     "images/irish-name-repo-3-solution.png",
     "images/irish-name-repo-sql-resp.png",
     "images/irish-name-repo-3-req-shape.png",
     "Log/2025-04-08.md",
-    "Log/2025-04-09.md",
     "images/headdump-2.png",
     "images/irish-name-repo-2-req-shape.png",
     "images/irish-name-repo-1-sql.png",
@@ -232,7 +233,6 @@
     "Log/4_April/2025-04-03.md",
     "Log/4_April/2025-04-04.md",
     "images/secret_of_the_polyglot.png",
-    "images/can_you_see.png",
     "Log/4_April/2025-04-02.md",
     "Log/4_April/2025-04-01.md",
     "Log/4_April",
