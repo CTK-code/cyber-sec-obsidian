@@ -89,4 +89,9 @@ hd cat.jpg
 Display information about object files.
 Used in:
 	[heap-2][[2025-04-11#[heap-2]()]
-	
+
+##### [scp]()
+Secure copy allows the copying of a file from one machine to another.
+```shell
+scp chris@<ip>:/path/to/file ./
+```
