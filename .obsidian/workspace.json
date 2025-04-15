@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "8413f59e5cad4e47",
@@ -179,7 +180,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f3dfec7ea007ada6",
+  "active": "dcde9c133a0c110e",
   "lastOpenFiles": [
     "images/flags.png",
     "Untitled.canvas",
