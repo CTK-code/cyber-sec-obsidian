@@ -100,3 +100,9 @@ Prints the contents of text files in the image.
 srch_strings -o 2048 dds1-alpine.flag.img
 ```
 
+##### [blkls](https://www.sleuthkit.org/sleuthkit/man/blkls.html)
+Not completely sure what this does.
+I used the following code to get the slack space from an image to print out a flag.
+```bash
+blkls -s <image-name> 
+```

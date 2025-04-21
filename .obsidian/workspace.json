@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Log/4_April/2025-04-21.md",
+                "file": "Tools/SleuthKit.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-04-21"
+              "title": "SleuthKit"
             }
           }
         ]
@@ -181,10 +181,10 @@
   },
   "active": "e334acd9a293c7a0",
   "lastOpenFiles": [
+    "Log/4_April/2025-04-21.md",
     "Log/4_April/2025-04-07.md",
     "Tools/SleuthKit.md",
     "[[.md",
-    "Log/4_April/2025-04-21.md",
     "Log/2025-04-20.md",
     "Log/2025-04-19.md",
     "Tools/Dictionary.md",
