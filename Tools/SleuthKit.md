@@ -91,7 +91,7 @@ mactime formate is what a lot of other tools look at for inputs.
 
 -r: recurses through directories on the image. Shows us all the files and folders in the entire disk.
 
-##### [icat]()
+##### [icat](https://www.sleuthkit.org/sleuthkit/man/icat.html)
 Prints the content of a file in an image (if it can be) to the stdout. This is accessed via the inode number.
 
 ##### [srch_strings](https://manpages.debian.org/jessie/sleuthkit/srch_strings.1)

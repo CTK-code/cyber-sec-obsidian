@@ -1,0 +1,2 @@
+#### [Slackspace](https://www.techtarget.com/whatis/definition/slack-space-file-slack-space):
+Leftover space that is allocated by the filesystem for a file but remains unused by a file because it does not need the whole space. Leftover data from previously deleted files *can* remain in this slack space as it is not overwritten which means that the data could be read. A CLI tool like `bmap` or other sleuthkit tools can be used to examine this slack space and read the leftover contents.
