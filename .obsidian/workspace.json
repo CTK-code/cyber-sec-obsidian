@@ -35,8 +35,7 @@
               "title": "2025-04-21"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -194,8 +193,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "16c0b5aac2d6da25",
+  "active": "e334acd9a293c7a0",
   "lastOpenFiles": [
+    "Log/4_April/2025-04-21.md",
     "Log/4_April/2025-04-22.md",
     "Log/4_April/2025-04-23.md",
     "Tools/SleuthKit.md",
@@ -203,7 +203,6 @@
     "2025-04-25.md",
     "Log/2025-04-18.md",
     "Log/2025-04-19.md",
-    "Log/4_April/2025-04-21.md",
     "Log/2025-04-20.md",
     "Log/2025-04-08.md",
     "Log/4_April/2025-04-07.md",
