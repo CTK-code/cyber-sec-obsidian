@@ -34,21 +34,9 @@
               "icon": "lucide-file",
               "title": "2025-04-30"
             }
-          },
-          {
-            "id": "641e52cabb12b6c6",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.8.10"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.8.10"
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -208,7 +196,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "641e52cabb12b6c6",
+  "active": "899235689d5b7b73",
   "lastOpenFiles": [
     "Log/4_April/2025-04-24.md",
     "2025-04-30.md",
