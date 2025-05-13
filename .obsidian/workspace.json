@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2025-05-09.md",
+                "file": "Log/4_April/2025-04-24.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-05-09"
+              "title": "2025-04-24"
             }
           }
         ],
@@ -68,7 +68,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Disk",
+                "query": "writeArra",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -89,12 +89,12 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "8413f59e5cad4e47",
@@ -198,8 +198,8 @@
   },
   "active": "899235689d5b7b73",
   "lastOpenFiles": [
-    "2025-05-06.md",
     "2025-05-09.md",
+    "2025-05-06.md",
     "2025-05-05.md",
     "2025-05-04.md",
     "2025-05-03.md",
